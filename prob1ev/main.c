@@ -31,9 +31,11 @@ int main()
     f=fopen("numere.txt","r");
     fscanf(f,"%i %i",&a, &b);
     if (nr_perfect(cmmdc(a, b)))
-        printf("Cel mai mare divizor comun este numar perfect!");
+        printf("Cel mai mare divizor comun al numerelor %i si %i \
+               este numar perfect!", a, b);
     else
-        printf("Cel mai mare divizor comun NU este numar perfect!");
+        printf("Cel mai mare divizor comun al numerelor %i si %i \
+               este numar perfect!", a, b);
     fclose(f);
     return 0;
 }
