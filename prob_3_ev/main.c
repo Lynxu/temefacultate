@@ -3,12 +3,12 @@
 
 void Read(int *length, int *start, int *w) //we get the addresses
 {
-    scanf("%i", &(*length)); // scanf will put value in the address of value sent as parameter
-                            // length it's a pointer, not an int
+    scanf("%i", length); // scanf will put value at the address indicated by length
+                            // length it's a pointer
 
     for(int i=0;i<(*length);i++)
-        scanf("%i", &(*(start++)));
-    scanf("%i", &(*w));
+        scanf("%i", start++);
+    scanf("%i", w);
 }
 
 void Write(float x)
