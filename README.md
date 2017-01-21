@@ -1,1 +1,1 @@
-# temefacultate
+# Teme facultate
