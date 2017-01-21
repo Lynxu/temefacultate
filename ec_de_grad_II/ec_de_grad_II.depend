@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485002106 source:d:\github\temefacultate\ec_de_grad_ii\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
