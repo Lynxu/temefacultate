@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485183494 source:d:\github\temefacultate\nr_prime_pana_la_n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
