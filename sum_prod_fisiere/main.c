@@ -18,5 +18,6 @@ int main()
     f=fopen("calcule.txt","w+");
     fprintf(f,"p=%i\n",p);
     fprintf(f,"s=%i",s);
+    fclose(f);
     return 0;
 }
