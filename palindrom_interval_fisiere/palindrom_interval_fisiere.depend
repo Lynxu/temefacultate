@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485205162 source:d:\github\temefacultate\palindrom_interval_fisiere\main.c
+	<stdio.h>
+	<stdlib.h>
+
