@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485286583 source:d:\github\temefacultate\cautare_valoare_vector\main.c
+	<stdio.h>
+	<stdlib.h>
+
