@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1485282008 source:d:\github\temefacultate\nr_de_nr_palindrom\main.c
+	<stdio.h>
+	<stdlib.h>
+
