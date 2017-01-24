@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1485276565 source:d:\github\temefacultate\nr_form_cif_unit_egal_n\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
