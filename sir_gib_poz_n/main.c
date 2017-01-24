@@ -5,7 +5,7 @@ int main()
 {
     int n,j,k=1,a=0,b=1,c=1;
     printf("Introduceti n: "); scanf("%i",&n);
-    while(c<=n)
+    while(c<n)
     {
         c=a+b;
         a=b;
