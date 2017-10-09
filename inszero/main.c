@@ -1,11 +1,4 @@
-/*
-The program reads from keyboard n array real distinct values and a x real value (array value).
-It must insert after the x value of the array one value of zero.  */
-
-
 #include <stdio.h>
-#include <stdlib.h>
-#include <limits.h>
 
 void Read(int *n, float a[100])
 {
