@@ -32,12 +32,12 @@ void Insert(int *n, float a[100], float x)
 {
     int i, end;
 
-    //n*2-1 iterations to be sure we parse all the array
+    //n*2-2 iterations to be sure we parse all the array
     //posible input: all array elements could be equal with the x input value
-    end=*n*2-1;
+    end=*n*2-2;
 
     i=0;
-    while(i<end)
+    while(i<=end)
     {
         if(a[i]!=x)
             i++;
